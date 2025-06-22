@@ -1,2 +1,3 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Anteriormente ao lab aprendi a criar uma conta, tentei a conta para estudante porém meu e-mail institucional não funcionou, parti então para a conta gratuita de 30 dias. Dentro do lab aprendi a mudar as configurações como idioma, cor de fundo e modo de exibição dos menus. Também aprendi como exploras a aba todos os serviços, sendo que a professora se deteve em algumas como por exemplo: armazenamento, computação e rede. Também foi explicado onde estaria os créditos liberados para aprendizagem da conta de aluno. 
